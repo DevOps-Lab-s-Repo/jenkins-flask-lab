@@ -89,4 +89,4 @@ The build below started by itself after a `git push`, without clicking **Build N
 
 ## Author
 
-KENNICHE Roumaissa – 5th-year Software Engineering, Computer Science Department
+KENNICHE Roumaissa – 5th-year Software Engineering
